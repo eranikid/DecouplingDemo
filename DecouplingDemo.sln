@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecouplingDemo.Host", "DecouplingDemo.Host\DecouplingDemo.Host.csproj", "{16474FBD-AFD2-490D-8EDF-3EC62B901C4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecouplingDemo.Infrastructure.Web", "DecouplingDemo.Infrastructure.Web\DecouplingDemo.Infrastructure.Web.csproj", "{517CC640-F4FA-442D-B217-C92E811BB63A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16474FBD-AFD2-490D-8EDF-3EC62B901C4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16474FBD-AFD2-490D-8EDF-3EC62B901C4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16474FBD-AFD2-490D-8EDF-3EC62B901C4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16474FBD-AFD2-490D-8EDF-3EC62B901C4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{517CC640-F4FA-442D-B217-C92E811BB63A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{517CC640-F4FA-442D-B217-C92E811BB63A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{517CC640-F4FA-442D-B217-C92E811BB63A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{517CC640-F4FA-442D-B217-C92E811BB63A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
